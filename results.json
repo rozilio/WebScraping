@@ -1,0 +1,19 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/tdK76TaMkjlJVEbrVTlXbwC-ruQ\"",
+  "pageInfo": { "totalResults": 1, "resultsPerPage": 1 },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/OWPMdSRlXQKVMpuGJHLcZMfaauk\"",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UU_x5XG1OV2P6uZZ5FSM9Ttw",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      }
+    }
+  ]
+}

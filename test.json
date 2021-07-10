@@ -1,0 +1,78 @@
+{
+  "Quiz": {
+    "Category": {
+      "Sport": {
+        "Q1": {
+          "Question": "Which one is correct team name in NBA?",
+          "Options": [
+            "New York Bulls",
+            "Los Angeles Kings",
+            "Golden State Warriros",
+            "Huston Rocket"
+          ],
+          "answer": "Huston Rocket",
+          "Score": [
+            {
+              "light": 15,
+              "middle": 15,
+              "difficult": 25
+            }
+          ]
+        },
+        "Q2": {
+          "question": "Which Olympic games were first brodacasted by High Definition?",
+          "options": ["Bejing 2008", "Sidney 2000", "London 2012", "JRio 2016"],
+          "answer": "Bejing 2008",
+          "Score": [
+            {
+              "light": 12,
+              "middle": 14,
+              "difficult": 18
+            }
+          ]
+        }
+      },
+      "Maths": {
+        "Q1": {
+          "question": "5 + 7 = ?",
+          "options": [10, 11, 12, 13],
+          "answer": "12",
+          "Score": [
+            {
+              "light": 13,
+              "middle": 28,
+              "difficult": 29
+            }
+          ]
+        },
+        "Q2": {
+          "question": "12 - 8 = ?",
+          "options": [1, 2, 3, 4],
+          "answer": "4",
+          "Score": [
+            {
+              "light": 7,
+              "middle": 15,
+              "difficult": 20
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Test": {
+    "Category": {
+      "Academmic": {
+        "Open Q1": "Who is your lecturer for data sceince",
+        "Open Q2": [
+          "How Much Time it takes to get the BA deree",
+          "Please eleborate"
+        ]
+      },
+      "High school": {
+        "Open Q1": "How much time it takes to finish high school",
+        "Open Q2": "Where have you studied?"
+      }
+    }
+  }
+}
